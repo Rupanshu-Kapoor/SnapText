@@ -6,9 +6,13 @@ SnapText is a powerful and intuitive Optical Character Recognition application b
 ## Features
 
 **Accurate Text Detection**: Utilizes EasyOCR's advanced text recognition capabilities to accurately detect and extract text from images.
+
 **Multi-Language Support**: Currently supports English, with the potential to extend to other languages supported by EasyOCR.
+
 **Confidence Filtering**: Filters detected text based on a minimum confidence level to ensure high-quality results.
+
 **Visual Feedback**: Displays bounding boxes and detected text on the original image, providing clear visual feedback.
+
 **Batch Processing**: Processes multiple images in a directory, saving the output images with detected text in a specified output directory.
 
 ## Installation
